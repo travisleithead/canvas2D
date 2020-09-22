@@ -24,6 +24,7 @@ Feature list
 
 - [**Modern filters**](spec/filters.md). Support composited filters, create a filter object that can be updated, and support more SVG-like filters.
 
+- [Travis](here)
 
 Future ideas
 ------------
